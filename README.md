@@ -1,5 +1,5 @@
 # Snavigation - 基于 IMSYY 的个人导航
-
+![Web-page-player](https://socialify.git.ci/xyz66882/Snavigation-/image?font=Raleway&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 <p align="center">
   <!-- 创建日期 --><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/xyz66882/Snavigation-?logo=github&label=%E5%88%9B%E5%BB%BA%E6%97%A5%E6%9C%9F">
   <!-- 下载量 --><a href="https://github.com/xyz66882/Snavigation-/releases"><img src="https://img.shields.io/github/downloads/xyz66882/Snavigation-/total?logo=github&label=%E4%B8%8B%E8%BD%BD%E9%87%8F"></a>
@@ -67,6 +67,20 @@
 - **原作者**：[xiaohao8](https://github.com/xiaohao8)  
 - **文档更新时间**：2025-06-24  
 
+# 🚀 贡献者
+<a href="https://github.com/xyz66882/Snavigation-/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xyz66882/Snavigation-" />
+</a>
+<br /><br />
+
+# ⭐️ 收藏 历史
+<a href="https://www.star-history.com/#xyz66882/Snavigation-&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xyz66882/Snavigation-&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xyz66882/Snavigation-&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xyz66882/Snavigation-&type=Date" />
+ </picture>
+</a>
 
 
 
